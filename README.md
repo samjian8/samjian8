@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sam Jian</h1>
-<h3 align="center">A mathematics student in Canada</h3>
+<h3 align="center">A Canadian student passionate about learning</h3>
 
-- 🌱 I’m currently learning **SQL, Excel, and more!**
+- 🔭 I’m interested in **data analytics, data science, and the potential of tech in healthcare.**
 
+- 🌱 I’m currently learning **SQL, Excel, and more.**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.leetcode.com/sam768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sam768" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
