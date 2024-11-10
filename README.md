@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sam Jian</h1>
 <h3 align="center">A Canadian student passionate about learning</h3>
 
-- 🔭 I’m interested in **data analytics, data science, finance, and the potential of tech in healthcare.**
+- 🔭 I’m interested in **data analytics, data science, finance, machine learning, and the potential of tech in healthcare.**
 
-- 🌱 I’m currently learning **SQL, Excel, ML, and more.**
+- 🌱 I’m currently learning **SQL, Excel, PyTorch, and more.**
 
 
 
