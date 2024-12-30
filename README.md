@@ -3,7 +3,7 @@
 
 - 🔭 I’m interested in **data analytics, data science, finance, machine learning, and the potential of tech in healthcare.**
 
-- 🌱 I’m currently learning **SQL, Excel, PyTorch, and more.**
+- 🌱 I’m currently learning **Pandas, Matplotlib, Excel VBA, and more.**
 
 
 
