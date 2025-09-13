@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sam Jian</h1>
-<h3 align="center">A university student passionate about learning</h3>
+cs + finance @ uwaterloo
 
-- 🔭 I’m interested in **data science, finance, and AI/ML.**
 
 
 
